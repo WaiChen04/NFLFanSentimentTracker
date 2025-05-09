@@ -1,0 +1,570 @@
+Team,Week,PositiveRatio,NegativeRatio,TotalComments,Div,Home,Margin of Victory,Opponent,Playoff,Prime Time,Win-Lose
+Arizona Cardinals,Week 1,0.5600794438927508,0.4399205561072492,1007,No,No,-6.0,Buffalo Bills,No,No,L
+Atlanta Falcons,Week 1,0.4929906542056075,0.5070093457943925,428,No,Yes,-8.0,Pittsburgh Steelers,No,No,L
+Carolina Panthers,Week 1,0.5651612903225807,0.4348387096774193,775,Yes,No,-37.0,New Orleans Saints,No,No,L
+Cincinnati Bengals,Week 1,0.5298372513562387,0.4701627486437613,553,No,Yes,-6.0,New England Patriots,No,No,L
+Cleveland Browns,Week 1,0.5853242320819113,0.4146757679180887,586,No,Yes,-16.0,Dallas Cowboys,No,No,L
+Dallas Cowboys,Week 1,0.6524752475247525,0.3475247524752475,1010,No,No,16.0,Cleveland Browns,No,No,W
+Denver Broncos,Week 1,0.5652777777777778,0.4347222222222222,720,No,No,-6.0,Seattle Seahawks,No,No,L
+Detroit Lions,Week 1,0.6334012219959266,0.3665987780040733,491,No,Yes,6.0,Los Angeles Rams,No,Yes,W
+Green Bay Packers,Week 1,0.5456674473067916,0.4543325526932084,427,No,Yes,-5.0,Philadelphia Eagles,No,Yes,L
+Houston Texans,Week 1,0.7393310265282583,0.2606689734717416,867,Yes,No,2.0,Indianapolis Colts,No,No,W
+Indianapolis Colts,Week 1,0.5228452751817237,0.4771547248182762,1926,Yes,Yes,-2.0,Houston Texans,No,No,L
+Jacksonville Jaguars,Week 1,0.4543325526932084,0.5456674473067916,427,No,No,-3.0,Miami Dolphins,No,No,L
+Kansas City Chiefs,Week 1,0.7286432160804021,0.271356783919598,597,No,Yes,7.0,Baltimore Ravens,No,Yes,W
+Las Vegas Raiders,Week 1,0.6364551863041289,0.3635448136958711,993,Yes,No,-12.0,Los Angeles Chargers,No,No,L
+Los Angeles Chargers,Week 1,0.7324561403508771,0.2675438596491228,456,Yes,Yes,12.0,Las Vegas Raiders,No,No,W
+Los Angeles Rams,Week 1,0.5537848605577689,0.446215139442231,502,No,No,-6.0,Detroit Lions,No,Yes,L
+Miami Dolphins,Week 1,0.5066666666666667,0.4933333333333333,375,No,Yes,3.0,Jacksonville Jaguars,No,No,W
+Minnesota Vikings,Week 1,0.6865728413845569,0.3134271586154431,2629,No,No,22.0,New York Giants,No,No,W
+New England Patriots,Week 1,0.7110912343470484,0.2889087656529517,1118,No,No,6.0,Cincinnati Bengals,No,No,W
+New Orleans Saints,Week 1,0.7264150943396226,0.2735849056603773,106,Yes,Yes,37.0,Carolina Panthers,No,No,W
+New York Giants,Week 1,0.4401041666666667,0.5598958333333334,384,No,Yes,-22.0,Minnesota Vikings,No,No,L
+New York Jets,Week 1,0.562874251497006,0.437125748502994,501,No,No,-13.0,San Francisco 49ers,No,Yes,L
+Philadelphia Eagles,Week 1,0.6836027713625866,0.3163972286374134,433,No,Yes,5.0,Green Bay Packers,No,Yes,W
+Pittsburgh Steelers,Week 1,0.6301652892561983,0.3698347107438016,484,No,No,8.0,Atlanta Falcons,No,No,W
+San Francisco 49ers,Week 1,0.6708333333333333,0.3291666666666666,480,No,Yes,13.0,New York Jets,No,Yes,W
+Seattle Seahawks,Week 1,0.6983546617915904,0.3016453382084095,547,No,Yes,6.0,Denver Broncos,No,No,W
+Tampa Bay Buccaneers,Week 1,0.6925795053003534,0.3074204946996466,283,No,Yes,17.0,Washington Commanders,No,No,W
+Tennessee Titans,Week 1,0.5330188679245284,0.4669811320754717,636,No,No,-7.0,Chicago Bears,No,No,L
+Washington Commanders,Week 1,0.6747491638795987,0.3252508361204013,1196,No,No,-17.0,Tampa Bay Buccaneers,No,No,L
+Arizona Cardinals,Week 2,0.7583333333333333,0.2416666666666666,120,Yes,Yes,31.0,Los Angeles Rams,No,No,W
+Atlanta Falcons,Week 2,0.7298701298701299,0.2701298701298701,385,No,No,1.0,Philadelphia Eagles,No,Yes,W
+Baltimore Ravens,Week 2,0.4592274678111588,0.5407725321888412,466,No,Yes,-3.0,Las Vegas Raiders,No,No,L
+Buffalo Bills,Week 2,0.6909090909090909,0.3090909090909091,550,Yes,No,21.0,Miami Dolphins,No,Yes,W
+Carolina Panthers,Week 2,0.4002677376171352,0.5997322623828648,747,No,Yes,-23.0,Los Angeles Chargers,No,No,L
+Chicago Bears,Week 2,0.4581395348837209,0.541860465116279,430,No,No,-6.0,Houston Texans,No,Yes,L
+Cincinnati Bengals,Week 2,0.4908835904628331,0.5091164095371669,713,No,No,-1.0,Kansas City Chiefs,No,No,L
+Cleveland Browns,Week 2,0.5924764890282131,0.4075235109717868,638,No,No,5.0,Jacksonville Jaguars,No,No,W
+Dallas Cowboys,Week 2,0.4374282433983926,0.5625717566016073,871,No,Yes,-25.0,New Orleans Saints,No,No,L
+Denver Broncos,Week 2,0.5857687420584498,0.4142312579415502,787,No,Yes,-7.0,Pittsburgh Steelers,No,No,L
+Houston Texans,Week 2,0.4910344827586207,0.5089655172413793,725,No,Yes,6.0,Chicago Bears,No,Yes,W
+Indianapolis Colts,Week 2,0.7421768707482993,0.2578231292517007,1470,No,No,-6.0,Green Bay Packers,No,No,L
+Jacksonville Jaguars,Week 2,0.5402298850574713,0.4597701149425287,87,No,Yes,-5.0,Cleveland Browns,No,No,L
+Kansas City Chiefs,Week 2,0.6454248366013072,0.3545751633986928,612,No,Yes,1.0,Cincinnati Bengals,No,No,W
+Las Vegas Raiders,Week 2,0.7207207207207207,0.2792792792792792,444,No,No,3.0,Baltimore Ravens,No,No,W
+Los Angeles Chargers,Week 2,0.5879659908436887,0.4120340091563113,1529,No,No,23.0,Carolina Panthers,No,No,W
+Los Angeles Rams,Week 2,0.4970414201183432,0.5029585798816568,169,Yes,No,-31.0,Arizona Cardinals,No,No,L
+Miami Dolphins,Week 2,0.5655296229802513,0.4344703770197486,557,Yes,Yes,-21.0,Buffalo Bills,No,Yes,L
+Pittsburgh Steelers,Week 2,0.6280254777070063,0.3719745222929936,785,No,No,7.0,Denver Broncos,No,No,W
+Seattle Seahawks,Week 2,0.6559633027522935,0.3440366972477064,654,No,No,3.0,New England Patriots,No,No,W
+Washington Commanders,Week 2,0.7262247838616714,0.2737752161383285,1041,Yes,Yes,3.0,New York Giants,No,No,W
+Atlanta Falcons,Week 3,0.5013123359580053,0.4986876640419947,762,No,Yes,-5.0,Kansas City Chiefs,No,Yes,L
+Chicago Bears,Week 3,0.5785536159600998,0.4214463840399002,401,No,No,-5.0,Indianapolis Colts,No,No,L
+Cleveland Browns,Week 3,0.4796116504854369,0.5203883495145631,515,No,Yes,-6.0,New York Giants,No,No,L
+Detroit Lions,Week 3,0.4605873261205564,0.5394126738794436,647,No,No,7.0,Arizona Cardinals,No,No,W
+Green Bay Packers,Week 3,0.7349137931034483,0.2650862068965517,464,No,No,16.0,Tennessee Titans,No,No,W
+Indianapolis Colts,Week 3,0.4557932983447719,0.5442067016552281,2477,No,Yes,5.0,Chicago Bears,No,No,W
+Las Vegas Raiders,Week 3,0.5994694960212201,0.4005305039787798,754,No,Yes,-14.0,Carolina Panthers,No,No,L
+Los Angeles Chargers,Week 3,0.7362560890744607,0.2637439109255393,1437,No,No,-10.0,Pittsburgh Steelers,No,No,L
+Los Angeles Rams,Week 3,0.7387580299785867,0.2612419700214132,467,Yes,Yes,3.0,San Francisco 49ers,No,No,W
+Miami Dolphins,Week 3,0.6202990484821024,0.3797009515178976,2207,No,No,-21.0,Seattle Seahawks,No,No,L
+Minnesota Vikings,Week 3,0.7559366754617414,0.2440633245382585,758,No,Yes,27.0,Houston Texans,No,No,W
+New York Giants,Week 3,0.6688034188034188,0.3311965811965812,468,No,No,6.0,Cleveland Browns,No,No,W
+New York Jets,Week 3,0.7627118644067796,0.2372881355932203,413,Yes,Yes,21.0,New England Patriots,No,Yes,W
+San Francisco 49ers,Week 3,0.4207746478873239,0.579225352112676,568,Yes,No,-3.0,Los Angeles Rams,No,No,L
+Tampa Bay Buccaneers,Week 3,0.5,0.5,440,No,Yes,-19.0,Denver Broncos,No,No,L
+Arizona Cardinals,Week 4,0.5579868708971554,0.4420131291028446,914,No,Yes,-28.0,Washington Commanders,No,No,L
+Baltimore Ravens,Week 4,0.7272727272727273,0.2727272727272727,649,No,Yes,25.0,Buffalo Bills,No,Yes,W
+Carolina Panthers,Week 4,0.6752688172043011,0.3247311827956989,465,No,Yes,-10.0,Cincinnati Bengals,No,No,L
+Chicago Bears,Week 4,0.7571428571428571,0.2428571428571428,420,No,Yes,6.0,Los Angeles Rams,No,No,W
+Cleveland Browns,Week 4,0.5458937198067633,0.4541062801932367,621,No,No,-4.0,Las Vegas Raiders,No,No,L
+Detroit Lions,Week 4,0.65,0.35,700,No,Yes,13.0,Seattle Seahawks,No,Yes,W
+Houston Texans,Week 4,0.5109090909090909,0.4890909090909091,1650,Yes,Yes,4.0,Jacksonville Jaguars,No,No,W
+Indianapolis Colts,Week 4,0.608786610878661,0.3912133891213389,478,No,Yes,3.0,Pittsburgh Steelers,No,No,W
+Jacksonville Jaguars,Week 4,0.7121346324180691,0.2878653675819309,1129,Yes,No,-4.0,Houston Texans,No,No,L
+Kansas City Chiefs,Week 4,0.6937901498929336,0.3062098501070663,467,Yes,No,7.0,Los Angeles Chargers,No,No,W
+Miami Dolphins,Week 4,0.411214953271028,0.5887850467289719,749,No,Yes,-19.0,Tennessee Titans,No,Yes,L
+Minnesota Vikings,Week 4,0.6087301587301587,0.3912698412698412,1260,Yes,No,2.0,Green Bay Packers,No,No,W
+New England Patriots,Week 4,0.5237580993520519,0.4762419006479482,926,No,No,-17.0,San Francisco 49ers,No,No,L
+New Orleans Saints,Week 4,0.518578352180937,0.481421647819063,619,Yes,No,-2.0,Atlanta Falcons,No,No,L
+Philadelphia Eagles,Week 4,0.416452442159383,0.583547557840617,389,No,No,-17.0,Tampa Bay Buccaneers,No,No,L
+Tennessee Titans,Week 4,0.5003219575016098,0.4996780424983902,1553,No,No,19.0,Miami Dolphins,No,Yes,W
+Washington Commanders,Week 4,0.6828358208955224,0.3171641791044776,536,No,No,28.0,Arizona Cardinals,No,No,W
+Arizona Cardinals,Week 5,0.7747035573122529,0.225296442687747,253,Yes,No,1.0,San Francisco 49ers,No,No,W
+Baltimore Ravens,Week 5,0.653211009174312,0.3467889908256881,545,Yes,No,3.0,Cincinnati Bengals,No,No,W
+Chicago Bears,Week 5,0.6476683937823834,0.3523316062176165,386,No,Yes,26.0,Carolina Panthers,No,No,W
+Cincinnati Bengals,Week 5,0.4074074074074074,0.5925925925925926,486,Yes,Yes,-3.0,Baltimore Ravens,No,No,L
+Green Bay Packers,Week 5,0.7213114754098361,0.2786885245901639,488,No,No,5.0,Los Angeles Rams,No,No,W
+Indianapolis Colts,Week 5,0.3928571428571428,0.6071428571428571,1176,Yes,No,-3.0,Jacksonville Jaguars,No,No,L
+Jacksonville Jaguars,Week 5,0.6148282097649186,0.3851717902350813,553,Yes,Yes,3.0,Indianapolis Colts,No,No,W
+Kansas City Chiefs,Week 5,0.7676190476190476,0.2323809523809523,525,No,Yes,13.0,New Orleans Saints,No,Yes,W
+Las Vegas Raiders,Week 5,0.5501543209876543,0.4498456790123457,1296,Yes,No,-16.0,Denver Broncos,No,No,L
+New England Patriots,Week 5,0.4655581947743468,0.5344418052256532,421,Yes,Yes,-5.0,Miami Dolphins,No,No,L
+New York Giants,Week 5,0.752913752913753,0.247086247086247,429,No,No,9.0,Seattle Seahawks,No,No,W
+Pittsburgh Steelers,Week 5,0.4668820678513732,0.5331179321486268,619,No,Yes,-3.0,Dallas Cowboys,No,Yes,L
+Seattle Seahawks,Week 5,0.4700193423597679,0.5299806576402321,517,No,Yes,-9.0,New York Giants,No,No,L
+Tampa Bay Buccaneers,Week 5,0.4436781609195402,0.5563218390804597,435,Yes,No,-6.0,Atlanta Falcons,No,Yes,L
+Washington Commanders,Week 5,0.7226027397260274,0.2773972602739726,292,No,Yes,21.0,Cleveland Browns,No,No,W
+Baltimore Ravens,Week 6,0.6764705882352942,0.3235294117647059,1462,No,Yes,7.0,Washington Commanders,No,No,W
+Carolina Panthers,Week 6,0.8075601374570447,0.1924398625429553,291,Yes,Yes,-18.0,Atlanta Falcons,No,No,L
+Chicago Bears,Week 6,0.6925133689839572,0.3074866310160428,374,No,Yes,19.0,Jacksonville Jaguars,No,No,W
+Denver Broncos,Week 6,0.584056399132321,0.4159436008676789,1844,No,Yes,-7.0,Los Angeles Chargers,No,No,L
+Green Bay Packers,Week 6,0.6200873362445415,0.3799126637554585,687,No,Yes,21.0,Arizona Cardinals,No,No,W
+Indianapolis Colts,Week 6,0.7078313253012049,0.2921686746987952,332,Yes,No,3.0,Tennessee Titans,No,No,W
+Jacksonville Jaguars,Week 6,0.4944812362030905,0.5055187637969095,453,No,Yes,-19.0,Chicago Bears,No,No,L
+Las Vegas Raiders,Week 6,0.771,0.229,1000,No,Yes,-19.0,Pittsburgh Steelers,No,No,L
+Los Angeles Chargers,Week 6,0.7130242825607064,0.2869757174392936,906,Yes,No,7.0,Denver Broncos,No,No,W
+New York Giants,Week 6,0.5296703296703297,0.4703296703296703,455,No,Yes,-10.0,Cincinnati Bengals,No,Yes,L
+Seattle Seahawks,Week 6,0.5619425173439049,0.4380574826560951,1009,Yes,Yes,-12.0,San Francisco 49ers,No,Yes,L
+Carolina Panthers,Week 7,0.6647196261682243,0.3352803738317757,856,No,No,-33.0,Washington Commanders,No,No,L
+Denver Broncos,Week 7,0.6670731707317074,0.3329268292682927,820,No,No,23.0,New Orleans Saints,No,Yes,W
+Detroit Lions,Week 7,0.5566343042071198,0.4433656957928802,618,Yes,No,2.0,Minnesota Vikings,No,No,W
+Green Bay Packers,Week 7,0.6829787234042554,0.3170212765957447,470,No,Yes,2.0,Houston Texans,No,No,W
+Houston Texans,Week 7,0.356234096692112,0.6437659033078881,786,No,No,-2.0,Green Bay Packers,No,No,L
+Indianapolis Colts,Week 7,0.5405807892777365,0.4594192107222636,1343,No,Yes,6.0,Miami Dolphins,No,No,W
+Jacksonville Jaguars,Week 7,0.7995951417004049,0.2004048582995951,494,No,Yes,16.0,New England Patriots,No,No,W
+Los Angeles Rams,Week 7,0.7045454545454546,0.2954545454545454,264,No,Yes,5.0,Las Vegas Raiders,No,No,W
+Miami Dolphins,Week 7,0.3816155988857939,0.6183844011142061,359,No,No,-6.0,Indianapolis Colts,No,No,L
+Minnesota Vikings,Week 7,0.522911051212938,0.477088948787062,371,Yes,Yes,-2.0,Detroit Lions,No,No,L
+New England Patriots,Week 7,0.5520169851380042,0.4479830148619957,471,No,Yes,-16.0,Jacksonville Jaguars,No,No,L
+New Orleans Saints,Week 7,0.4424460431654676,0.5575539568345323,556,No,Yes,-23.0,Denver Broncos,No,Yes,L
+New York Giants,Week 7,0.505720823798627,0.494279176201373,437,Yes,Yes,-25.0,Philadelphia Eagles,No,No,L
+New York Jets,Week 7,0.5060728744939271,0.4939271255060729,494,No,No,-22.0,Pittsburgh Steelers,No,Yes,L
+Philadelphia Eagles,Week 7,0.6725838264299803,0.3274161735700197,507,Yes,No,25.0,New York Giants,No,No,W
+Pittsburgh Steelers,Week 7,0.6872727272727273,0.3127272727272727,550,No,Yes,19.0,New York Jets,No,Yes,W
+San Francisco 49ers,Week 7,0.6546762589928058,0.3453237410071942,834,No,Yes,-10.0,Kansas City Chiefs,No,No,L
+Seattle Seahawks,Week 7,0.568955223880597,0.431044776119403,1675,No,No,20.0,Atlanta Falcons,No,No,W
+Tampa Bay Buccaneers,Week 7,0.4720194647201946,0.5279805352798054,411,No,Yes,-10.0,Baltimore Ravens,No,Yes,L
+Arizona Cardinals,Week 8,0.6693227091633466,0.3306772908366533,251,No,No,1.0,Miami Dolphins,No,No,W
+Atlanta Falcons,Week 8,0.5910780669144982,0.4089219330855018,538,Yes,No,5.0,Tampa Bay Buccaneers,No,No,W
+Chicago Bears,Week 8,0.3969849246231156,0.6030150753768844,398,No,No,-3.0,Washington Commanders,No,No,L
+Dallas Cowboys,Week 8,0.5495934959349593,0.4504065040650406,615,No,No,-6.0,San Francisco 49ers,No,Yes,L
+Detroit Lions,Week 8,0.7057728119180633,0.2942271880819367,537,No,Yes,38.0,Tennessee Titans,No,No,W
+Indianapolis Colts,Week 8,0.4163265306122449,0.5836734693877551,735,Yes,No,-3.0,Houston Texans,No,No,L
+Kansas City Chiefs,Week 8,0.5893271461716937,0.4106728538283062,431,Yes,No,7.0,Las Vegas Raiders,No,No,W
+Las Vegas Raiders,Week 8,0.5102040816326531,0.4897959183673469,245,Yes,Yes,-7.0,Kansas City Chiefs,No,No,L
+Los Angeles Chargers,Week 8,0.6256983240223464,0.3743016759776536,358,No,Yes,18.0,New Orleans Saints,No,No,W
+Los Angeles Rams,Week 8,0.6425531914893617,0.3574468085106383,470,No,Yes,10.0,Minnesota Vikings,No,Yes,W
+Miami Dolphins,Week 8,0.5415472779369628,0.4584527220630373,349,No,Yes,-1.0,Arizona Cardinals,No,No,L
+Minnesota Vikings,Week 8,0.4506578947368421,0.5493421052631579,608,No,No,-10.0,Los Angeles Rams,No,Yes,L
+New England Patriots,Week 8,0.454172366621067,0.5458276333789329,731,Yes,Yes,3.0,New York Jets,No,No,W
+New Orleans Saints,Week 8,0.5306122448979592,0.4693877551020408,98,No,No,-18.0,Los Angeles Chargers,No,No,L
+New York Giants,Week 8,0.6287787182587666,0.3712212817412333,827,No,No,-8.0,Pittsburgh Steelers,No,Yes,L
+Philadelphia Eagles,Week 8,0.6368159203980099,0.36318407960199,402,No,No,20.0,Cincinnati Bengals,No,No,W
+Pittsburgh Steelers,Week 8,0.7607802874743327,0.2392197125256673,974,No,Yes,8.0,New York Giants,No,Yes,W
+San Francisco 49ers,Week 8,0.5850340136054422,0.4149659863945578,588,No,Yes,6.0,Dallas Cowboys,No,Yes,W
+Seattle Seahawks,Week 8,0.5411954765751211,0.4588045234248788,619,No,Yes,-21.0,Buffalo Bills,No,No,L
+Tampa Bay Buccaneers,Week 8,0.6731866340668297,0.3268133659331703,1227,Yes,Yes,-5.0,Atlanta Falcons,No,No,L
+Tennessee Titans,Week 8,0.5094339622641509,0.490566037735849,583,No,No,-38.0,Detroit Lions,No,No,L
+Arizona Cardinals,Week 9,0.6258351893095768,0.3741648106904232,449,No,Yes,20.0,Chicago Bears,No,No,W
+Baltimore Ravens,Week 9,0.5977808599167822,0.4022191400832177,721,No,Yes,31.0,Denver Broncos,No,No,W
+Buffalo Bills,Week 9,0.5957446808510638,0.4042553191489361,423,Yes,Yes,3.0,Miami Dolphins,No,No,W
+Chicago Bears,Week 9,0.3430851063829787,0.6569148936170213,376,No,No,-20.0,Arizona Cardinals,No,No,L
+Cincinnati Bengals,Week 9,0.6926345609065155,0.3073654390934844,706,No,Yes,17.0,Las Vegas Raiders,No,No,W
+Cleveland Browns,Week 9,0.6420545746388443,0.3579454253611557,1246,No,Yes,-17.0,Los Angeles Chargers,No,No,L
+Denver Broncos,Week 9,0.7142857142857143,0.2857142857142857,1211,No,No,-31.0,Baltimore Ravens,No,No,L
+Indianapolis Colts,Week 9,0.5845864661654135,0.4154135338345864,532,No,No,-8.0,Minnesota Vikings,No,Yes,L
+Jacksonville Jaguars,Week 9,0.4619047619047619,0.5380952380952381,420,No,No,-5.0,Philadelphia Eagles,No,No,L
+Las Vegas Raiders,Week 9,0.6830357142857143,0.3169642857142857,448,No,No,-17.0,Cincinnati Bengals,No,No,L
+Miami Dolphins,Week 9,0.5414364640883977,0.4585635359116022,362,Yes,No,-3.0,Buffalo Bills,No,No,L
+Minnesota Vikings,Week 9,0.6939252336448598,0.3060747663551402,856,No,Yes,8.0,Indianapolis Colts,No,Yes,W
+New York Giants,Week 9,0.5552486187845304,0.4447513812154696,362,Yes,Yes,-5.0,Washington Commanders,No,No,L
+Philadelphia Eagles,Week 9,0.5338345864661654,0.4661654135338345,399,No,Yes,5.0,Jacksonville Jaguars,No,No,W
+Tampa Bay Buccaneers,Week 9,0.45610278372591,0.5438972162740899,467,No,No,-6.0,Kansas City Chiefs,No,Yes,L
+Atlanta Falcons,Week 10,0.502283105022831,0.4977168949771689,876,Yes,No,-3.0,New Orleans Saints,No,No,L
+Baltimore Ravens,Week 10,0.5517241379310345,0.4482758620689655,667,Yes,Yes,1.0,Cincinnati Bengals,No,Yes,W
+Buffalo Bills,Week 10,0.4200863930885529,0.5799136069114471,926,No,No,10.0,Indianapolis Colts,No,No,W
+Carolina Panthers,Week 10,0.7908902691511387,0.2091097308488612,483,No,Yes,3.0,New York Giants,No,No,W
+Chicago Bears,Week 10,0.4096692111959287,0.5903307888040712,393,No,Yes,-16.0,New England Patriots,No,No,L
+Cincinnati Bengals,Week 10,0.4719298245614035,0.5280701754385965,570,Yes,No,-1.0,Baltimore Ravens,No,Yes,L
+Dallas Cowboys,Week 10,0.4789644012944983,0.5210355987055016,618,Yes,Yes,-28.0,Philadelphia Eagles,No,No,L
+Denver Broncos,Week 10,0.4322469982847341,0.5677530017152659,583,Yes,No,-2.0,Kansas City Chiefs,No,No,L
+Detroit Lions,Week 10,0.5568181818181818,0.4431818181818182,352,No,No,3.0,Houston Texans,No,Yes,W
+Houston Texans,Week 10,0.3734290843806104,0.6265709156193896,557,No,Yes,-3.0,Detroit Lions,No,Yes,L
+Indianapolis Colts,Week 10,0.4850498338870432,0.5149501661129569,301,No,Yes,-10.0,Buffalo Bills,No,No,L
+Jacksonville Jaguars,Week 10,0.4690346083788707,0.5309653916211293,1098,No,Yes,-5.0,Minnesota Vikings,No,No,L
+Kansas City Chiefs,Week 10,0.647450110864745,0.352549889135255,451,Yes,Yes,2.0,Denver Broncos,No,No,W
+Los Angeles Chargers,Week 10,0.756993006993007,0.243006993006993,572,No,Yes,10.0,Tennessee Titans,No,No,W
+Miami Dolphins,Week 10,0.476056338028169,0.523943661971831,355,No,No,8.0,Los Angeles Rams,No,Yes,W
+Minnesota Vikings,Week 10,0.570855614973262,0.4291443850267379,748,No,No,5.0,Jacksonville Jaguars,No,No,W
+New York Giants,Week 10,0.571078431372549,0.4289215686274509,408,No,Yes,-3.0,Carolina Panthers,No,No,L
+New York Jets,Week 10,0.5102739726027398,0.4897260273972603,584,No,No,-25.0,Arizona Cardinals,No,No,L
+Philadelphia Eagles,Week 10,0.7343976777939042,0.2656023222060958,689,Yes,No,28.0,Dallas Cowboys,No,No,W
+San Francisco 49ers,Week 10,0.5,0.5,840,No,No,3.0,Tampa Bay Buccaneers,No,No,W
+Tennessee Titans,Week 10,0.5410447761194029,0.458955223880597,1608,No,No,-10.0,Los Angeles Chargers,No,No,L
+Atlanta Falcons,Week 11,0.5641025641025641,0.4358974358974359,273,No,No,-32.0,Denver Broncos,No,No,L
+Buffalo Bills,Week 11,0.7174887892376681,0.2825112107623318,446,No,Yes,9.0,Kansas City Chiefs,No,No,W
+Cincinnati Bengals,Week 11,0.6068965517241379,0.3931034482758621,725,No,No,-7.0,Los Angeles Chargers,No,Yes,L
+Cleveland Browns,Week 11,0.5337423312883436,0.4662576687116564,1304,No,No,-21.0,New Orleans Saints,No,No,L
+Dallas Cowboys,Week 11,0.5893970893970893,0.4106029106029106,962,No,Yes,-24.0,Houston Texans,No,Yes,L
+Denver Broncos,Week 11,0.6445497630331753,0.3554502369668246,1266,No,Yes,32.0,Atlanta Falcons,No,No,W
+Detroit Lions,Week 11,0.5841059602649007,0.4158940397350993,755,No,Yes,46.0,Jacksonville Jaguars,No,No,W
+Green Bay Packers,Week 11,0.6644591611479028,0.3355408388520971,453,Yes,No,1.0,Chicago Bears,No,No,W
+Houston Texans,Week 11,0.5211726384364821,0.4788273615635179,307,No,No,24.0,Dallas Cowboys,No,Yes,W
+Las Vegas Raiders,Week 11,0.7092511013215859,0.2907488986784141,227,No,No,-15.0,Miami Dolphins,No,No,L
+Los Angeles Rams,Week 11,0.6770833333333334,0.3229166666666667,192,No,No,6.0,New England Patriots,No,No,W
+New York Jets,Week 11,0.5136476426799007,0.4863523573200992,403,No,Yes,-1.0,Indianapolis Colts,No,No,L
+Seattle Seahawks,Week 11,0.6444444444444445,0.3555555555555555,495,Yes,No,3.0,San Francisco 49ers,No,No,W
+Washington Commanders,Week 11,0.4804063860667634,0.5195936139332366,689,Yes,No,-8.0,Philadelphia Eagles,No,Yes,L
+Carolina Panthers,Week 12,0.6633663366336634,0.3366336633663366,1616,No,Yes,-3.0,Kansas City Chiefs,No,No,L
+Chicago Bears,Week 12,0.5845070422535211,0.4154929577464789,426,Yes,Yes,-3.0,Minnesota Vikings,No,No,L
+Cleveland Browns,Week 12,0.6978021978021978,0.3021978021978022,546,Yes,Yes,5.0,Pittsburgh Steelers,No,Yes,W
+Dallas Cowboys,Week 12,0.7372577171572147,0.2627422828427853,1393,Yes,No,8.0,Washington Commanders,No,No,W
+Green Bay Packers,Week 12,0.7386609071274298,0.2613390928725702,463,No,Yes,28.0,San Francisco 49ers,No,No,W
+Houston Texans,Week 12,0.3752212389380531,0.6247787610619469,565,Yes,Yes,-5.0,Tennessee Titans,No,No,L
+Indianapolis Colts,Week 12,0.5508317929759704,0.4491682070240296,541,No,Yes,-18.0,Detroit Lions,No,No,L
+Kansas City Chiefs,Week 12,0.6048951048951049,0.3951048951048951,572,No,No,3.0,Carolina Panthers,No,No,W
+Las Vegas Raiders,Week 12,0.6425339366515838,0.3574660633484163,221,Yes,Yes,-10.0,Denver Broncos,No,No,L
+New York Giants,Week 12,0.614138438880707,0.3858615611192931,679,No,Yes,-23.0,Tampa Bay Buccaneers,No,No,L
+Philadelphia Eagles,Week 12,0.5885558583106267,0.4114441416893733,367,No,No,17.0,Los Angeles Rams,No,Yes,W
+Pittsburgh Steelers,Week 12,0.4756995581737849,0.524300441826215,679,Yes,No,-5.0,Cleveland Browns,No,Yes,L
+Baltimore Ravens,Week 13,0.573394495412844,0.4266055045871559,872,No,Yes,-5.0,Philadelphia Eagles,No,No,L
+Denver Broncos,Week 13,0.6075036075036075,0.3924963924963925,693,No,Yes,9.0,Cleveland Browns,No,Yes,W
+Miami Dolphins,Week 13,0.4369973190348525,0.5630026809651475,373,No,No,-13.0,Green Bay Packers,No,Yes,L
+New York Giants,Week 13,0.5427927927927928,0.4572072072072072,888,Yes,No,-7.0,Dallas Cowboys,No,Yes,L
+San Francisco 49ers,Week 13,0.484240687679083,0.5157593123209169,1047,No,No,-25.0,Buffalo Bills,No,Yes,L
+Chicago Bears,Week 14,0.4778947368421052,0.5221052631578947,475,No,No,-25.0,San Francisco 49ers,No,No,L
+Jacksonville Jaguars,Week 14,0.791015625,0.208984375,512,Yes,No,4.0,Tennessee Titans,No,No,W
+Miami Dolphins,Week 14,0.3269230769230769,0.6730769230769231,52,Yes,Yes,8.0,New York Jets,No,No,W
+Minnesota Vikings,Week 14,0.8353151010701546,0.1646848989298454,1682,No,Yes,21.0,Atlanta Falcons,No,No,W
+New Orleans Saints,Week 14,0.6949152542372882,0.3050847457627119,118,No,No,3.0,New York Giants,No,No,W
+New York Giants,Week 14,0.711738484398217,0.288261515601783,673,No,Yes,-3.0,New Orleans Saints,No,No,L
+Pittsburgh Steelers,Week 14,0.3153988868274582,0.6846011131725418,1078,Yes,Yes,13.0,Cleveland Browns,No,No,W
+Seattle Seahawks,Week 14,0.5736040609137056,0.4263959390862944,985,Yes,No,12.0,Arizona Cardinals,No,No,W
+Tampa Bay Buccaneers,Week 14,0.8394276629570747,0.1605723370429252,629,No,Yes,15.0,Las Vegas Raiders,No,No,W
+Tennessee Titans,Week 14,0.6251862891207154,0.3748137108792846,1342,Yes,Yes,-4.0,Jacksonville Jaguars,No,No,L
+Atlanta Falcons,Week 15,0.5397111913357401,0.4602888086642599,554,No,No,6.0,Las Vegas Raiders,No,Yes,W
+Baltimore Ravens,Week 15,0.4387755102040816,0.5612244897959183,196,No,No,21.0,New York Giants,No,No,W
+Buffalo Bills,Week 15,0.5914149443561209,0.4085850556438791,629,No,No,6.0,Detroit Lions,No,No,W
+Chicago Bears,Week 15,0.5047438330170778,0.4952561669829222,527,Yes,No,-18.0,Minnesota Vikings,No,Yes,L
+Dallas Cowboys,Week 15,0.7585089141004863,0.2414910858995137,617,No,No,16.0,Carolina Panthers,No,No,W
+Detroit Lions,Week 15,0.6503164556962026,0.3496835443037974,632,No,Yes,-6.0,Buffalo Bills,No,No,L
+Houston Texans,Week 15,0.7124563445867288,0.2875436554132712,859,No,Yes,8.0,Miami Dolphins,No,No,W
+Indianapolis Colts,Week 15,0.6439732142857143,0.3560267857142857,896,No,No,-18.0,Denver Broncos,No,No,L
+New England Patriots,Week 15,0.6451612903225806,0.3548387096774194,2201,No,No,-13.0,Arizona Cardinals,No,No,L
+Seattle Seahawks,Week 16,0.5502873563218391,0.4497126436781609,696,No,Yes,-3.0,Minnesota Vikings,No,No,L
+Tampa Bay Buccaneers,Week 16,0.6198581560283688,0.3801418439716312,705,No,No,-2.0,Dallas Cowboys,No,Yes,L
+Tennessee Titans,Week 16,0.5623188405797102,0.4376811594202898,2415,Yes,No,-8.0,Indianapolis Colts,No,No,L
+Washington Commanders,Week 16,0.6244725738396625,0.3755274261603376,474,Yes,Yes,3.0,Philadelphia Eagles,No,No,W
+Arizona Cardinals,Week 17,0.6177606177606177,0.3822393822393822,1295,Yes,No,-4.0,Los Angeles Rams,No,Yes,L
+Atlanta Falcons,Week 17,0.4275184275184275,0.5724815724815725,407,No,No,-6.0,Washington Commanders,No,Yes,L
+Baltimore Ravens,Week 17,0.6717948717948717,0.3282051282051282,195,No,No,29.0,Houston Texans,No,Yes,W
+Buffalo Bills,Week 17,0.6847034339229969,0.3152965660770031,961,Yes,Yes,26.0,New York Jets,No,No,W
+Carolina Panthers,Week 17,0.8679950186799502,0.1320049813200498,803,Yes,No,-34.0,Tampa Bay Buccaneers,No,No,L
+Chicago Bears,Week 17,0.3508771929824561,0.6491228070175439,399,No,Yes,-3.0,Seattle Seahawks,No,Yes,L
+Cincinnati Bengals,Week 17,0.5798045602605864,0.4201954397394137,921,No,Yes,6.0,Denver Broncos,No,Yes,W
+Cleveland Browns,Week 17,0.6976351351351351,0.3023648648648648,1776,No,Yes,-17.0,Miami Dolphins,No,No,L
+Dallas Cowboys,Week 17,0.662613981762918,0.3373860182370821,329,Yes,No,-34.0,Philadelphia Eagles,No,No,L
+Denver Broncos,Week 17,0.4949899799599198,0.5050100200400801,499,No,No,-6.0,Cincinnati Bengals,No,Yes,L
+Detroit Lions,Week 17,0.6441947565543071,0.3558052434456928,534,No,No,6.0,San Francisco 49ers,No,Yes,W
+Green Bay Packers,Week 17,0.6207674943566591,0.3792325056433409,443,Yes,No,-2.0,Minnesota Vikings,No,No,L
+Houston Texans,Week 17,0.5742904841402338,0.4257095158597663,599,No,Yes,-29.0,Baltimore Ravens,No,Yes,L
+Indianapolis Colts,Week 17,0.5534407027818448,0.4465592972181552,683,No,No,-12.0,New York Giants,No,No,L
+Jacksonville Jaguars,Week 17,0.6346749226006192,0.3653250773993808,323,Yes,Yes,7.0,Tennessee Titans,No,No,W
+Kansas City Chiefs,Week 17,0.7221633085896076,0.2778366914103923,943,No,No,19.0,Pittsburgh Steelers,No,Yes,W
+Las Vegas Raiders,Week 17,0.5930568948891032,0.4069431051108968,1037,No,No,15.0,New Orleans Saints,No,No,W
+Los Angeles Chargers,Week 17,0.3830188679245283,0.6169811320754717,530,No,No,33.0,New England Patriots,No,Yes,W
+Los Angeles Rams,Week 17,0.4626865671641791,0.5373134328358209,469,Yes,Yes,4.0,Arizona Cardinals,No,Yes,W
+Miami Dolphins,Week 17,0.4874651810584958,0.5125348189415042,359,No,No,17.0,Cleveland Browns,No,No,W
+Minnesota Vikings,Week 17,0.6765067650676507,0.3234932349323493,813,Yes,Yes,2.0,Green Bay Packers,No,No,W
+New England Patriots,Week 17,0.5622489959839357,0.4377510040160642,498,No,Yes,-33.0,Los Angeles Chargers,No,Yes,L
+New Orleans Saints,Week 17,0.701195219123506,0.298804780876494,251,No,Yes,-15.0,Las Vegas Raiders,No,No,L
+New York Giants,Week 17,0.4949748743718593,0.5050251256281407,398,No,Yes,12.0,Indianapolis Colts,No,No,W
+New York Jets,Week 17,0.6364251861882194,0.3635748138117806,1477,Yes,No,-26.0,Buffalo Bills,No,No,L
+Philadelphia Eagles,Week 17,0.5963060686015831,0.4036939313984168,379,Yes,Yes,34.0,Dallas Cowboys,No,No,W
+Pittsburgh Steelers,Week 17,0.5746388443017657,0.4253611556982343,623,No,Yes,-19.0,Kansas City Chiefs,No,Yes,L
+San Francisco 49ers,Week 17,0.6528046421663443,0.3471953578336557,1034,No,Yes,-6.0,Detroit Lions,No,Yes,L
+Seattle Seahawks,Week 17,0.63718820861678,0.3628117913832199,441,No,No,3.0,Chicago Bears,No,Yes,W
+Tampa Bay Buccaneers,Week 17,0.5841121495327103,0.4158878504672897,214,Yes,Yes,34.0,Carolina Panthers,No,No,W
+Tennessee Titans,Week 17,0.6658536585365854,0.3341463414634146,410,Yes,No,-7.0,Jacksonville Jaguars,No,No,L
+Washington Commanders,Week 17,0.6229885057471264,0.3770114942528735,435,No,Yes,6.0,Atlanta Falcons,No,Yes,W
+Arizona Cardinals,Week 18,0.6027397260273972,0.3972602739726027,73,Yes,Yes,23.0,San Francisco 49ers,No,No,W
+Atlanta Falcons,Week 18,0.5277777777777778,0.4722222222222222,396,Yes,Yes,-6.0,Carolina Panthers,No,No,L
+Pittsburgh Steelers,Wild Card,0.5668549905838042,0.4331450094161959,531,Yes,No,-14.0,Baltimore Ravens,Yes,Yes,L
+Tampa Bay Buccaneers,Wild Card,0.5798816568047337,0.4201183431952662,845,No,Yes,-3.0,Washington Commanders,Yes,Yes,L
+Washington Commanders,Wild Card,0.6452905811623246,0.3547094188376753,499,No,No,3.0,Tampa Bay Buccaneers,Yes,Yes,W
+Baltimore Ravens,Division,0.4668949771689498,0.5331050228310502,876,No,No,-2.0,Buffalo Bills,Yes,Yes,L
+Buffalo Bills,Division,0.7754010695187166,0.2245989304812834,561,No,Yes,2.0,Baltimore Ravens,Yes,Yes,W
+Detroit Lions,Division,0.5480916030534351,0.4519083969465648,655,No,Yes,-14.0,Washington Commanders,Yes,Yes,L
+Houston Texans,Division,0.5188834154351396,0.4811165845648604,609,No,No,-9.0,Kansas City Chiefs,Yes,Yes,L
+Kansas City Chiefs,Division,0.6149532710280374,0.3850467289719626,535,No,Yes,9.0,Houston Texans,Yes,Yes,W
+Los Angeles Rams,Division,0.5447470817120622,0.4552529182879377,514,No,No,-6.0,Philadelphia Eagles,Yes,Yes,L
+Philadelphia Eagles,Division,0.6273584905660378,0.3726415094339622,424,No,Yes,6.0,Los Angeles Rams,Yes,Yes,W
+Washington Commanders,Division,0.7484787018255578,0.2515212981744422,493,No,No,14.0,Detroit Lions,Yes,Yes,W
+Buffalo Bills,Championship,0.4248927038626609,0.575107296137339,699,No,No,-3.0,Kansas City Chiefs,Yes,Yes,L
+Kansas City Chiefs,Championship,0.6966067864271457,0.3033932135728543,501,No,Yes,3.0,Buffalo Bills,Yes,Yes,W
+Philadelphia Eagles,Championship,0.6024390243902439,0.3975609756097561,410,Yes,Yes,32.0,Washington Commanders,Yes,Yes,W
+Washington Commanders,Championship,0.5764023210831721,0.4235976789168278,517,Yes,No,-32.0,Philadelphia Eagles,Yes,Yes,L
+Kansas City Chiefs,Super Bowl,0.520949720670391,0.4790502793296089,716,No,No,-18.0,Philadelphia Eagles,Yes,Yes,L
+Philadelphia Eagles,Super Bowl,0.6828087167070218,0.3171912832929782,413,No,No,18.0,Kansas City Chiefs,Yes,Yes,W
+Baltimore Ravens,Week 1,0.5866050808314087,0.4133949191685912,433,No,No,-7.0,Kansas City Chiefs,No,Yes,L
+Buffalo Bills,Week 1,0.5386996904024768,0.4613003095975232,323,No,Yes,6.0,Arizona Cardinals,No,No,W
+Chicago Bears,Week 1,0.6217494089834515,0.3782505910165484,423,No,Yes,7.0,Tennessee Titans,No,No,W
+Detroit Lions,Week 2,0.4974093264248704,0.5025906735751295,772,No,Yes,-4.0,Tampa Bay Buccaneers,No,No,L
+Minnesota Vikings,Week 2,0.6804733727810651,0.3195266272189349,676,No,Yes,6.0,San Francisco 49ers,No,No,W
+New Orleans Saints,Week 2,0.5442359249329759,0.4557640750670241,373,No,No,25.0,Dallas Cowboys,No,No,W
+Philadelphia Eagles,Week 2,0.4176334106728538,0.5823665893271461,431,No,Yes,-1.0,Atlanta Falcons,No,Yes,L
+Tampa Bay Buccaneers,Week 2,0.5584112149532711,0.441588785046729,2568,No,No,4.0,Detroit Lions,No,No,W
+Baltimore Ravens,Week 3,0.4980314960629921,0.5019685039370079,508,No,No,3.0,Dallas Cowboys,No,No,W
+Buffalo Bills,Week 3,0.7032967032967034,0.2967032967032967,91,No,Yes,37.0,Jacksonville Jaguars,No,Yes,W
+Carolina Panthers,Week 3,0.6121134020618557,0.3878865979381443,776,No,No,14.0,Las Vegas Raiders,No,No,W
+Cincinnati Bengals,Week 3,0.5489296636085627,0.4510703363914373,654,No,Yes,-5.0,Washington Commanders,No,Yes,L
+Denver Broncos,Week 3,0.7134038800705468,0.2865961199294533,1134,No,No,19.0,Tampa Bay Buccaneers,No,No,W
+Houston Texans,Week 3,0.267639902676399,0.732360097323601,822,No,No,-27.0,Minnesota Vikings,No,No,L
+Jacksonville Jaguars,Week 3,0.4050279329608938,0.5949720670391061,358,No,No,-37.0,Buffalo Bills,No,Yes,L
+Kansas City Chiefs,Week 3,0.6826196473551638,0.3173803526448362,794,No,No,5.0,Atlanta Falcons,No,Yes,W
+New England Patriots,Week 3,0.6399456521739131,0.360054347826087,736,Yes,No,-21.0,New York Jets,No,Yes,L
+New Orleans Saints,Week 3,0.8314065510597303,0.1685934489402697,2076,No,Yes,-3.0,Philadelphia Eagles,No,No,L
+Philadelphia Eagles,Week 3,0.6132723112128147,0.3867276887871853,437,No,No,3.0,New Orleans Saints,No,No,W
+Pittsburgh Steelers,Week 3,0.6828046744574291,0.3171953255425709,599,No,Yes,10.0,Los Angeles Chargers,No,No,W
+Seattle Seahawks,Week 3,0.7754189944134078,0.2245810055865922,895,No,Yes,21.0,Miami Dolphins,No,No,W
+Washington Commanders,Week 3,0.7162162162162162,0.2837837837837837,518,No,No,5.0,Cincinnati Bengals,No,Yes,W
+Cincinnati Bengals,Week 4,0.6501814882032668,0.3498185117967332,2204,No,No,10.0,Carolina Panthers,No,No,W
+Dallas Cowboys,Week 4,0.5369318181818182,0.4630681818181818,1056,Yes,No,5.0,New York Giants,No,Yes,W
+Denver Broncos,Week 4,0.6886326194398682,0.3113673805601318,607,Yes,No,1.0,New York Jets,No,No,W
+Las Vegas Raiders,Week 4,0.7115384615384616,0.2884615384615384,1248,No,Yes,4.0,Cleveland Browns,No,No,W
+Los Angeles Chargers,Week 4,0.6879861711322386,0.3120138288677614,1157,Yes,Yes,-7.0,Kansas City Chiefs,No,No,L
+New York Giants,Week 4,0.5576036866359447,0.4423963133640553,434,Yes,Yes,-5.0,Dallas Cowboys,No,Yes,L
+Pittsburgh Steelers,Week 4,0.435630689206762,0.5643693107932379,769,No,No,-3.0,Indianapolis Colts,No,No,L
+San Francisco 49ers,Week 4,0.791907514450867,0.2080924855491329,692,No,Yes,17.0,New England Patriots,No,No,W
+Atlanta Falcons,Week 5,0.6816816816816816,0.3183183183183183,333,Yes,Yes,6.0,Tampa Bay Buccaneers,No,Yes,W
+Buffalo Bills,Week 5,0.4349030470914127,0.5650969529085873,361,No,No,-3.0,Houston Texans,No,No,L
+Denver Broncos,Week 5,0.6488222698072805,0.3511777301927195,934,Yes,Yes,16.0,Las Vegas Raiders,No,No,W
+Houston Texans,Week 5,0.6217616580310881,0.3782383419689119,579,No,Yes,3.0,Buffalo Bills,No,No,W
+Miami Dolphins,Week 5,0.5637254901960784,0.4362745098039216,612,Yes,No,5.0,New England Patriots,No,No,W
+New Orleans Saints,Week 5,0.5251396648044693,0.4748603351955307,179,No,No,-13.0,Kansas City Chiefs,No,Yes,L
+New York Jets,Week 5,0.4738154613466334,0.5261845386533666,401,No,Yes,-6.0,Minnesota Vikings,No,No,L
+San Francisco 49ers,Week 5,0.4372037914691943,0.5627962085308057,844,Yes,Yes,-1.0,Arizona Cardinals,No,No,L
+Arizona Cardinals,Week 6,0.6613462873004857,0.3386537126995142,1441,No,No,-21.0,Green Bay Packers,No,No,L
+Atlanta Falcons,Week 6,0.7166212534059946,0.2833787465940054,367,Yes,No,18.0,Carolina Panthers,No,No,W
+Detroit Lions,Week 6,0.6503340757238307,0.3496659242761692,2245,No,No,38.0,Dallas Cowboys,No,No,W
+Houston Texans,Week 6,0.6573705179282868,0.3426294820717131,251,No,No,20.0,New England Patriots,No,No,W
+New Orleans Saints,Week 6,0.4970873786407767,0.5029126213592233,515,Yes,Yes,-24.0,Tampa Bay Buccaneers,No,No,L
+New York Jets,Week 6,0.4055415617128463,0.5944584382871536,397,Yes,Yes,-3.0,Buffalo Bills,No,Yes,L
+Pittsburgh Steelers,Week 6,0.6111458985597996,0.3888541014402004,1597,No,No,19.0,Las Vegas Raiders,No,No,W
+Tampa Bay Buccaneers,Week 6,0.6624472573839663,0.3375527426160337,474,Yes,No,24.0,New Orleans Saints,No,No,W
+Tennessee Titans,Week 6,0.5277777777777778,0.4722222222222222,756,Yes,Yes,-3.0,Indianapolis Colts,No,No,L
+Arizona Cardinals,Week 7,0.6137521222410866,0.3862478777589134,1178,No,Yes,2.0,Los Angeles Chargers,No,Yes,W
+Atlanta Falcons,Week 7,0.6374745417515275,0.3625254582484725,491,No,Yes,-20.0,Seattle Seahawks,No,No,L
+Cleveland Browns,Week 7,0.6691810344827587,0.3308189655172414,928,Yes,Yes,-7.0,Cincinnati Bengals,No,No,L
+Kansas City Chiefs,Week 7,0.7048929663608563,0.2951070336391437,654,No,No,10.0,San Francisco 49ers,No,No,W
+Las Vegas Raiders,Week 7,0.6342494714587738,0.3657505285412262,946,No,No,-5.0,Los Angeles Rams,No,No,L
+Los Angeles Chargers,Week 7,0.3877159309021113,0.6122840690978887,521,No,No,-2.0,Arizona Cardinals,No,Yes,L
+Tennessee Titans,Week 7,0.5422374429223744,0.4577625570776256,876,No,No,-24.0,Buffalo Bills,No,No,L
+Baltimore Ravens,Week 8,0.4408352668213457,0.5591647331786543,431,Yes,No,-5.0,Cleveland Browns,No,No,L
+Buffalo Bills,Week 8,0.6651162790697674,0.3348837209302325,860,No,No,21.0,Seattle Seahawks,No,No,W
+Denver Broncos,Week 8,0.6833333333333333,0.3166666666666666,900,No,Yes,14.0,Carolina Panthers,No,No,W
+Houston Texans,Week 8,0.6698412698412698,0.3301587301587301,630,Yes,Yes,3.0,Indianapolis Colts,No,No,W
+Green Bay Packers,Week 9,0.5738758029978587,0.4261241970021413,467,Yes,Yes,-10.0,Detroit Lions,No,No,L
+Houston Texans,Week 9,0.5450819672131147,0.4549180327868852,732,No,No,-8.0,New York Jets,No,Yes,L
+Los Angeles Chargers,Week 9,0.7899686520376176,0.2100313479623824,319,No,No,17.0,Cleveland Browns,No,No,W
+New England Patriots,Week 9,0.6161616161616161,0.3838383838383838,594,No,No,-3.0,Tennessee Titans,No,No,L
+Washington Commanders,Week 9,0.7962962962962963,0.2037037037037037,540,Yes,No,5.0,New York Giants,No,No,W
+Los Angeles Rams,Week 10,0.5558086560364465,0.4441913439635535,439,No,Yes,-8.0,Miami Dolphins,No,Yes,L
+New England Patriots,Week 10,0.6490825688073395,0.3509174311926605,436,No,No,16.0,Chicago Bears,No,No,W
+Pittsburgh Steelers,Week 10,0.7246543778801844,0.2753456221198156,868,No,No,1.0,Washington Commanders,No,No,W
+Washington Commanders,Week 10,0.4916666666666666,0.5083333333333333,480,No,Yes,-1.0,Pittsburgh Steelers,No,No,L
+Baltimore Ravens,Week 11,0.555032925682032,0.444967074317968,1063,Yes,No,-2.0,Pittsburgh Steelers,No,No,L
+Chicago Bears,Week 11,0.4765432098765432,0.5234567901234568,405,Yes,Yes,-1.0,Green Bay Packers,No,No,L
+Indianapolis Colts,Week 11,0.903666427030913,0.0963335729690869,1391,No,No,1.0,New York Jets,No,No,W
+Kansas City Chiefs,Week 11,0.5874213836477987,0.4125786163522013,795,No,No,-9.0,Buffalo Bills,No,No,L
+Los Angeles Chargers,Week 11,0.6872146118721462,0.3127853881278539,438,No,Yes,7.0,Cincinnati Bengals,No,Yes,W
+Philadelphia Eagles,Week 11,0.5822784810126582,0.4177215189873418,395,Yes,Yes,8.0,Washington Commanders,No,Yes,W
+Tennessee Titans,Week 11,0.5471204188481675,0.4528795811518324,1146,No,Yes,-10.0,Minnesota Vikings,No,No,L
+Arizona Cardinals,Week 12,0.6923076923076923,0.3076923076923077,1053,Yes,No,-10.0,Seattle Seahawks,No,No,L
+Baltimore Ravens,Week 12,0.758985200845666,0.241014799154334,946,No,No,7.0,Los Angeles Chargers,No,Yes,W
+Denver Broncos,Week 12,0.6451612903225806,0.3548387096774194,558,Yes,No,10.0,Las Vegas Raiders,No,No,W
+Detroit Lions,Week 12,0.7037037037037037,0.2962962962962963,675,No,No,18.0,Indianapolis Colts,No,No,W
+Minnesota Vikings,Week 12,0.5954962468723937,0.4045037531276063,1199,Yes,No,3.0,Chicago Bears,No,No,W
+Seattle Seahawks,Week 12,0.5950797872340425,0.4049202127659574,1504,Yes,Yes,10.0,Arizona Cardinals,No,No,W
+Tennessee Titans,Week 12,0.7596439169139466,0.2403560830860534,337,Yes,No,5.0,Houston Texans,No,No,W
+Arizona Cardinals,Week 13,0.6632653061224489,0.336734693877551,1862,No,No,-1.0,Minnesota Vikings,No,No,L
+Buffalo Bills,Week 13,0.7751322751322751,0.2248677248677248,378,No,Yes,25.0,San Francisco 49ers,No,Yes,W
+Carolina Panthers,Week 13,0.6348228043143297,0.3651771956856702,649,Yes,Yes,-3.0,Tampa Bay Buccaneers,No,No,L
+Cincinnati Bengals,Week 13,0.4744623655913978,0.5255376344086021,744,Yes,Yes,-6.0,Pittsburgh Steelers,No,No,L
+Cleveland Browns,Week 13,0.5905432595573441,0.4094567404426559,994,No,No,-9.0,Denver Broncos,No,Yes,L
+Detroit Lions,Week 13,0.5245283018867924,0.4754716981132075,530,Yes,Yes,3.0,Chicago Bears,No,Yes,W
+Green Bay Packers,Week 13,0.7569620253164557,0.2430379746835443,395,No,Yes,13.0,Miami Dolphins,No,Yes,W
+Houston Texans,Week 13,0.5590885002649708,0.4409114997350291,1887,Yes,No,3.0,Jacksonville Jaguars,No,No,W
+Jacksonville Jaguars,Week 13,0.5034168564920274,0.4965831435079726,439,Yes,Yes,-3.0,Houston Texans,No,No,L
+Los Angeles Chargers,Week 13,0.5555555555555556,0.4444444444444444,1017,No,No,4.0,Atlanta Falcons,No,No,W
+Los Angeles Rams,Week 13,0.69,0.31,200,No,No,7.0,New Orleans Saints,No,No,W
+Minnesota Vikings,Week 13,0.691908713692946,0.3080912863070539,964,No,Yes,1.0,Arizona Cardinals,No,No,W
+New York Jets,Week 13,0.567287784679089,0.432712215320911,483,No,Yes,-5.0,Seattle Seahawks,No,No,L
+Washington Commanders,Week 13,0.5687732342007435,0.4312267657992565,269,No,Yes,23.0,Tennessee Titans,No,No,W
+Arizona Cardinals,Week 14,0.6999059266227657,0.3000940733772342,1063,Yes,Yes,-12.0,Seattle Seahawks,No,No,L
+Dallas Cowboys,Week 14,0.5350877192982456,0.4649122807017544,798,No,Yes,-7.0,Cincinnati Bengals,No,Yes,L
+Green Bay Packers,Week 14,0.5343347639484979,0.4656652360515021,466,Yes,No,-3.0,Detroit Lions,No,Yes,L
+Kansas City Chiefs,Week 14,0.7100271002710027,0.2899728997289973,369,Yes,Yes,2.0,Los Angeles Chargers,No,Yes,W
+Las Vegas Raiders,Week 14,0.35625,0.64375,480,No,No,-15.0,Tampa Bay Buccaneers,No,No,L
+New York Jets,Week 14,0.5301204819277109,0.4698795180722891,498,Yes,No,-6.0,Miami Dolphins,No,No,L
+Philadelphia Eagles,Week 14,0.5218216318785579,0.4781783681214421,527,No,Yes,6.0,Carolina Panthers,No,No,W
+Cincinnati Bengals,Week 15,0.5674201091192518,0.4325798908807482,1283,No,No,10.0,Tennessee Titans,No,No,W
+Cleveland Browns,Week 15,0.5899481451934583,0.4100518548065416,2507,No,Yes,-14.0,Kansas City Chiefs,No,No,L
+Denver Broncos,Week 15,0.6701337295690936,0.3298662704309064,673,No,Yes,18.0,Indianapolis Colts,No,No,W
+Green Bay Packers,Week 15,0.7690631808278867,0.2309368191721132,459,No,No,17.0,Seattle Seahawks,No,Yes,W
+Jacksonville Jaguars,Week 15,0.7109375,0.2890625,256,No,Yes,-7.0,New York Jets,No,No,L
+Kansas City Chiefs,Week 15,0.6747572815533981,0.3252427184466019,618,No,No,14.0,Cleveland Browns,No,No,W
+Las Vegas Raiders,Week 15,0.2644927536231884,0.7355072463768116,828,No,Yes,-6.0,Atlanta Falcons,No,Yes,L
+Miami Dolphins,Week 15,0.4278215223097112,0.5721784776902887,381,No,No,-8.0,Houston Texans,No,No,L
+Minnesota Vikings,Week 15,0.6373873873873874,0.3626126126126126,1332,Yes,Yes,18.0,Chicago Bears,No,Yes,W
+New York Giants,Week 15,0.4309133489461358,0.5690866510538641,1281,No,Yes,-21.0,Baltimore Ravens,No,No,L
+New York Jets,Week 15,0.6493975903614457,0.3506024096385542,830,No,No,7.0,Jacksonville Jaguars,No,No,W
+Philadelphia Eagles,Week 15,0.6572668112798264,0.3427331887201735,461,No,Yes,14.0,Pittsburgh Steelers,No,No,W
+Pittsburgh Steelers,Week 15,0.4642857142857143,0.5357142857142857,924,No,No,-14.0,Philadelphia Eagles,No,No,L
+San Francisco 49ers,Week 15,0.4334061135371179,0.5665938864628821,916,Yes,Yes,-6.0,Los Angeles Rams,No,Yes,L
+Tampa Bay Buccaneers,Week 15,0.7208333333333333,0.2791666666666667,240,No,No,23.0,Los Angeles Chargers,No,No,W
+Tennessee Titans,Week 15,0.6121794871794872,0.3878205128205128,624,No,Yes,-10.0,Cincinnati Bengals,No,No,L
+Washington Commanders,Week 15,0.5620437956204379,0.437956204379562,548,No,No,1.0,New Orleans Saints,No,No,W
+Arizona Cardinals,Week 16,0.620715350223547,0.379284649776453,1342,No,No,-6.0,Carolina Panthers,No,No,L
+Atlanta Falcons,Week 16,0.6861313868613139,0.3138686131386861,411,No,Yes,27.0,New York Giants,No,No,W
+Carolina Panthers,Week 16,0.7169230769230769,0.283076923076923,325,No,Yes,6.0,Arizona Cardinals,No,No,W
+Chicago Bears,Week 16,0.5277078085642317,0.4722921914357683,794,Yes,Yes,-17.0,Detroit Lions,No,No,L
+Cincinnati Bengals,Week 16,0.531,0.469,1000,Yes,Yes,18.0,Cleveland Browns,No,No,W
+Detroit Lions,Week 16,0.6044624746450304,0.3955375253549695,493,Yes,No,17.0,Chicago Bears,No,No,W
+Green Bay Packers,Week 16,0.717687074829932,0.282312925170068,588,No,Yes,34.0,New Orleans Saints,No,Yes,W
+Houston Texans,Week 16,0.5515759312320917,0.4484240687679083,698,No,No,-8.0,Kansas City Chiefs,No,Yes,L
+Jacksonville Jaguars,Week 16,0.696969696969697,0.303030303030303,528,No,No,-5.0,Las Vegas Raiders,No,No,L
+Kansas City Chiefs,Week 16,0.71731843575419,0.28268156424581,895,No,Yes,8.0,Houston Texans,No,Yes,W
+New Orleans Saints,Week 16,0.8663522012578616,0.1336477987421383,636,No,No,-34.0,Green Bay Packers,No,Yes,L
+New York Giants,Week 16,0.5102770330652369,0.4897229669347632,1119,No,No,-27.0,Atlanta Falcons,No,No,L
+New York Jets,Week 16,0.5418966382338184,0.4581033617661816,1993,No,Yes,-10.0,Los Angeles Rams,No,No,L
+Pittsburgh Steelers,Week 16,0.5167652859960552,0.4832347140039448,507,Yes,No,-17.0,Baltimore Ravens,No,Yes,L
+Buffalo Bills,Week 18,0.7272727272727273,0.2727272727272727,396,Yes,No,-7.0,New England Patriots,No,No,L
+Chicago Bears,Week 18,0.6078947368421053,0.3921052631578947,380,Yes,No,2.0,Green Bay Packers,No,No,W
+Cincinnati Bengals,Week 18,0.628968253968254,0.371031746031746,504,Yes,No,2.0,Pittsburgh Steelers,No,Yes,W
+Indianapolis Colts,Week 18,0.6477272727272727,0.3522727272727273,176,Yes,Yes,3.0,Jacksonville Jaguars,No,No,W
+Kansas City Chiefs,Week 18,0.6062322946175638,0.3937677053824363,353,Yes,No,-38.0,Denver Broncos,No,No,L
+New England Patriots,Week 18,0.5604395604395604,0.4395604395604395,455,Yes,Yes,7.0,Buffalo Bills,No,No,W
+New Orleans Saints,Week 18,0.6210045662100456,0.3789954337899543,219,Yes,No,-8.0,Tampa Bay Buccaneers,No,No,L
+San Francisco 49ers,Week 18,0.4473208910295003,0.5526791089704997,1661,Yes,No,-23.0,Arizona Cardinals,No,No,L
+Washington Commanders,Week 18,0.7484909456740443,0.2515090543259557,497,Yes,No,4.0,Dallas Cowboys,No,No,W
+Buffalo Bills,Wild Card,0.7367280606717227,0.2632719393282773,923,No,Yes,24.0,Denver Broncos,Yes,Yes,W
+Denver Broncos,Wild Card,0.6765873015873016,0.3234126984126984,1008,No,No,-24.0,Buffalo Bills,Yes,Yes,L
+Los Angeles Chargers,Wild Card,0.5441176470588235,0.4558823529411764,816,No,No,-20.0,Houston Texans,Yes,Yes,L
+Los Angeles Rams,Wild Card,0.6084507042253521,0.3915492957746478,355,No,Yes,18.0,Minnesota Vikings,Yes,Yes,W
+Minnesota Vikings,Wild Card,0.5864570737605804,0.4135429262394196,827,No,No,-18.0,Los Angeles Rams,Yes,Yes,L
+Philadelphia Eagles,Wild Card,0.6348448687350835,0.3651551312649164,419,No,Yes,12.0,Green Bay Packers,Yes,Yes,W
+New York Giants,Week 2,0.4592074592074592,0.5407925407925408,429,Yes,No,-3.0,Washington Commanders,No,No,L
+Arizona Cardinals,Week 3,0.2057460611677479,0.794253938832252,1079,No,Yes,-7.0,Detroit Lions,No,No,L
+Dallas Cowboys,Week 3,0.4662162162162162,0.5337837837837838,444,No,Yes,-3.0,Baltimore Ravens,No,No,L
+Green Bay Packers,Week 4,0.6046511627906976,0.3953488372093023,430,Yes,Yes,-2.0,Minnesota Vikings,No,No,L
+Los Angeles Rams,Week 4,0.4380403458213256,0.5619596541786743,347,No,No,-6.0,Chicago Bears,No,No,L
+Cleveland Browns,Week 5,0.3069873997709049,0.693012600229095,873,No,No,-21.0,Washington Commanders,No,No,L
+San Francisco 49ers,Week 6,0.5466321243523317,0.4533678756476684,772,Yes,No,12.0,Seattle Seahawks,No,Yes,W
+Baltimore Ravens,Week 7,0.6929061784897025,0.3070938215102974,2185,No,No,10.0,Tampa Bay Buccaneers,No,Yes,W
+Buffalo Bills,Week 7,0.7145328719723183,0.2854671280276816,578,No,Yes,24.0,Tennessee Titans,No,No,W
+Cincinnati Bengals,Week 8,0.4989473684210526,0.5010526315789474,475,No,Yes,-20.0,Philadelphia Eagles,No,No,L
+Jacksonville Jaguars,Week 8,0.580441640378549,0.4195583596214511,634,No,Yes,-3.0,Green Bay Packers,No,No,L
+Washington Commanders,Week 8,0.6846652267818575,0.3153347732181425,463,No,Yes,3.0,Chicago Bears,No,No,W
+Dallas Cowboys,Week 9,0.5373493975903615,0.4626506024096385,830,No,No,-6.0,Atlanta Falcons,No,No,L
+Detroit Lions,Week 9,0.5106382978723404,0.4893617021276595,329,Yes,No,10.0,Green Bay Packers,No,No,W
+New Orleans Saints,Week 9,0.46,0.54,100,Yes,No,-1.0,Carolina Panthers,No,No,L
+New York Jets,Week 9,0.6510067114093959,0.348993288590604,447,No,Yes,8.0,Houston Texans,No,Yes,W
+Seattle Seahawks,Week 9,0.427304964539007,0.5726950354609929,564,Yes,Yes,-6.0,Los Angeles Rams,No,No,L
+Los Angeles Chargers,Week 12,0.6015625,0.3984375,896,No,Yes,-7.0,Baltimore Ravens,No,Yes,L
+Los Angeles Rams,Week 12,0.5454545454545454,0.4545454545454545,451,No,Yes,-17.0,Philadelphia Eagles,No,Yes,L
+Miami Dolphins,Week 12,0.4970588235294118,0.5029411764705882,340,Yes,Yes,19.0,New England Patriots,No,No,W
+Tampa Bay Buccaneers,Week 12,0.8627659574468085,0.1372340425531915,940,No,No,23.0,New York Giants,No,No,W
+Chicago Bears,Week 13,0.4084880636604774,0.5915119363395226,377,Yes,No,-3.0,Detroit Lions,No,Yes,L
+Indianapolis Colts,Week 13,0.8387543252595155,0.1612456747404844,1445,No,No,1.0,New England Patriots,No,No,W
+Tennessee Titans,Week 13,0.5929824561403508,0.4070175438596491,285,No,No,-23.0,Washington Commanders,No,No,L
+San Francisco 49ers,Week 14,0.590343818580834,0.409656181419166,1367,No,Yes,25.0,Chicago Bears,No,No,W
+Arizona Cardinals,Week 15,0.6619217081850534,0.3380782918149466,281,No,Yes,13.0,New England Patriots,No,No,W
+Carolina Panthers,Week 15,0.7076648841354723,0.2923351158645276,561,No,Yes,-16.0,Dallas Cowboys,No,No,L
+Seattle Seahawks,Week 15,0.7482408131352619,0.2517591868647381,1279,No,Yes,-17.0,Green Bay Packers,No,Yes,L
+Baltimore Ravens,Week 16,0.6928571428571428,0.3071428571428571,700,Yes,Yes,17.0,Pittsburgh Steelers,No,Yes,W
+Cleveland Browns,Week 16,0.7147688838782412,0.2852311161217587,887,Yes,No,-18.0,Cincinnati Bengals,No,No,L
+Denver Broncos,Week 16,0.5090817356205852,0.4909182643794147,1982,Yes,No,-7.0,Los Angeles Chargers,No,Yes,L
+Indianapolis Colts,Week 16,0.6478599221789884,0.3521400778210117,2056,Yes,Yes,8.0,Tennessee Titans,No,No,W
+Los Angeles Rams,Week 16,0.6355555555555555,0.3644444444444444,450,No,No,10.0,New York Jets,No,No,W
+Minnesota Vikings,Week 16,0.7091633466135459,0.2908366533864542,753,No,No,3.0,Seattle Seahawks,No,No,W
+Philadelphia Eagles,Week 16,0.4288990825688073,0.5711009174311926,436,Yes,No,-3.0,Washington Commanders,No,No,L
+San Francisco 49ers,Week 16,0.5587846763540291,0.4412153236459709,757,No,No,-12.0,Miami Dolphins,No,No,L
+Baltimore Ravens,Week 18,0.7068965517241379,0.293103448275862,348,Yes,Yes,25.0,Cleveland Browns,No,Yes,W
+Carolina Panthers,Week 18,0.7719298245614035,0.2280701754385964,627,Yes,No,6.0,Atlanta Falcons,No,No,W
+Jacksonville Jaguars,Week 18,0.6592797783933518,0.3407202216066482,361,Yes,No,-3.0,Indianapolis Colts,No,No,L
+Minnesota Vikings,Week 18,0.6687224669603524,0.3312775330396476,1135,Yes,No,-22.0,Detroit Lions,No,No,L
+Philadelphia Eagles,Week 18,0.6025974025974026,0.3974025974025974,385,Yes,Yes,7.0,New York Giants,No,No,W
+Pittsburgh Steelers,Week 18,0.5485232067510548,0.4514767932489451,711,Yes,Yes,-2.0,Cincinnati Bengals,No,Yes,L
+Seattle Seahawks,Week 18,0.8782213239009601,0.1217786760990399,1979,Yes,No,5.0,Los Angeles Rams,No,No,W
+Tampa Bay Buccaneers,Week 18,0.5053475935828877,0.4946524064171123,374,Yes,Yes,8.0,New Orleans Saints,No,No,W
+Baltimore Ravens,Wild Card,0.7202643171806168,0.2797356828193832,454,Yes,Yes,14.0,Pittsburgh Steelers,Yes,Yes,W
+Green Bay Packers,Wild Card,0.5915178571428571,0.4084821428571428,448,No,No,-12.0,Philadelphia Eagles,Yes,Yes,L
+Green Bay Packers,Week 2,0.7192224622030238,0.2807775377969762,463,No,Yes,6.0,Indianapolis Colts,No,No,W
+New England Patriots,Week 2,0.3549517966695881,0.6450482033304119,1141,No,Yes,-3.0,Seattle Seahawks,No,No,L
+New York Jets,Week 2,0.7299813780260708,0.2700186219739292,537,No,No,7.0,Tennessee Titans,No,No,W
+San Francisco 49ers,Week 2,0.5457875457875457,0.4542124542124542,819,No,No,-6.0,Minnesota Vikings,No,No,L
+Tennessee Titans,Week 2,0.6380832282471627,0.3619167717528373,793,No,Yes,-7.0,New York Jets,No,No,L
+Tennessee Titans,Week 3,0.3875326939843069,0.6124673060156931,2294,No,Yes,-16.0,Green Bay Packers,No,No,L
+Atlanta Falcons,Week 4,0.5879629629629629,0.412037037037037,432,Yes,Yes,2.0,New Orleans Saints,No,No,W
+Buffalo Bills,Week 4,0.5338078291814946,0.4661921708185053,562,No,No,-25.0,Baltimore Ravens,No,Yes,L
+New York Jets,Week 4,0.3898305084745763,0.6101694915254238,472,No,Yes,-1.0,Denver Broncos,No,No,L
+Seattle Seahawks,Week 4,0.6201550387596899,0.3798449612403101,516,No,No,-13.0,Detroit Lions,No,Yes,L
+Tampa Bay Buccaneers,Week 4,0.6588785046728972,0.3411214953271028,214,No,Yes,17.0,Philadelphia Eagles,No,No,W
+Carolina Panthers,Week 5,0.5375268048606148,0.4624731951393853,1399,No,No,-26.0,Chicago Bears,No,No,L
+Dallas Cowboys,Week 5,0.7847427557658191,0.2152572442341809,1691,No,No,3.0,Pittsburgh Steelers,No,Yes,W
+Los Angeles Rams,Week 5,0.7188823031329382,0.2811176968670618,1181,No,Yes,-5.0,Green Bay Packers,No,No,L
+Minnesota Vikings,Week 5,0.5399201596806387,0.4600798403193613,1002,No,Yes,6.0,New York Jets,No,No,W
+Buffalo Bills,Week 6,0.4969879518072289,0.5030120481927711,332,Yes,No,3.0,New York Jets,No,Yes,W
+Cincinnati Bengals,Week 6,0.575107296137339,0.4248927038626609,1398,No,No,10.0,New York Giants,No,Yes,W
+Cleveland Browns,Week 6,0.5537190082644629,0.4462809917355372,363,No,No,-4.0,Philadelphia Eagles,No,No,L
+Dallas Cowboys,Week 6,0.4519867549668874,0.5480132450331126,604,No,Yes,-38.0,Detroit Lions,No,No,L
+New England Patriots,Week 6,0.7100694444444444,0.2899305555555556,576,No,Yes,-20.0,Houston Texans,No,No,L
+Philadelphia Eagles,Week 6,0.6171171171171171,0.3828828828828828,444,No,Yes,4.0,Cleveland Browns,No,No,W
+Washington Commanders,Week 6,0.7485217391304347,0.2514782608695652,2875,No,No,-7.0,Baltimore Ravens,No,No,L
+Cincinnati Bengals,Week 7,0.7401913875598086,0.2598086124401914,2090,Yes,No,7.0,Cleveland Browns,No,No,W
+Washington Commanders,Week 7,0.8927789934354485,0.1072210065645514,1371,No,Yes,33.0,Carolina Panthers,No,No,W
+Carolina Panthers,Week 8,0.7808219178082192,0.2191780821917808,949,No,No,-14.0,Denver Broncos,No,No,L
+Cleveland Browns,Week 8,0.604089219330855,0.395910780669145,538,Yes,Yes,5.0,Baltimore Ravens,No,No,W
+Green Bay Packers,Week 8,0.7658730158730159,0.2341269841269841,504,No,No,3.0,Jacksonville Jaguars,No,No,W
+New York Jets,Week 8,0.373134328358209,0.6268656716417911,402,Yes,No,-3.0,New England Patriots,No,No,L
+Atlanta Falcons,Week 9,0.7438271604938271,0.2561728395061728,324,No,Yes,6.0,Dallas Cowboys,No,No,W
+Carolina Panthers,Week 9,0.7019230769230769,0.2980769230769231,520,Yes,Yes,1.0,New Orleans Saints,No,No,W
+Kansas City Chiefs,Week 9,0.5521126760563381,0.447887323943662,710,No,Yes,6.0,Tampa Bay Buccaneers,No,Yes,W
+Los Angeles Rams,Week 9,0.6580310880829016,0.3419689119170984,193,Yes,No,6.0,Seattle Seahawks,No,No,W
+Tennessee Titans,Week 9,0.3910614525139664,0.6089385474860335,895,No,Yes,3.0,New England Patriots,No,No,W
+Arizona Cardinals,Week 10,0.6990291262135923,0.3009708737864077,103,No,Yes,25.0,New York Jets,No,No,W
+New Orleans Saints,Week 10,0.4660894660894661,0.5339105339105339,693,Yes,Yes,3.0,Atlanta Falcons,No,No,W
+Tampa Bay Buccaneers,Week 10,0.5269360269360269,0.4730639730639731,594,No,Yes,-3.0,San Francisco 49ers,No,No,L
+Jacksonville Jaguars,Week 11,0.4690346083788707,0.5309653916211293,1098,No,No,-46.0,Detroit Lions,No,No,L
+Miami Dolphins,Week 11,0.5045871559633027,0.4954128440366973,327,No,Yes,15.0,Las Vegas Raiders,No,No,W
+Minnesota Vikings,Week 11,0.6749236511706821,0.3250763488293179,2947,No,No,10.0,Tennessee Titans,No,No,W
+New England Patriots,Week 11,0.5878623188405797,0.4121376811594203,2208,No,Yes,-6.0,Los Angeles Rams,No,No,L
+New Orleans Saints,Week 11,0.6783216783216783,0.3216783216783216,143,No,Yes,21.0,Cleveland Browns,No,No,W
+Pittsburgh Steelers,Week 11,0.6305343511450382,0.3694656488549618,655,Yes,Yes,2.0,Baltimore Ravens,No,No,W
+San Francisco 49ers,Week 11,0.4237588652482269,0.5762411347517731,564,Yes,Yes,-3.0,Seattle Seahawks,No,No,L
+New England Patriots,Week 12,0.7982873453853473,0.2017126546146527,1051,Yes,No,-19.0,Miami Dolphins,No,No,L
+San Francisco 49ers,Week 12,0.4894179894179894,0.5105820105820106,756,No,No,-28.0,Green Bay Packers,No,No,L
+Washington Commanders,Week 12,0.4698581560283688,0.5301418439716312,564,Yes,Yes,-8.0,Dallas Cowboys,No,No,L
+Atlanta Falcons,Week 13,0.486784140969163,0.513215859030837,454,No,Yes,-4.0,Los Angeles Chargers,No,No,L
+Dallas Cowboys,Week 13,0.6574074074074074,0.3425925925925926,216,Yes,Yes,7.0,New York Giants,No,Yes,W
+Kansas City Chiefs,Week 13,0.5572390572390572,0.4427609427609427,594,Yes,Yes,2.0,Las Vegas Raiders,No,Yes,W
+Las Vegas Raiders,Week 13,0.6810551558752997,0.3189448441247002,834,Yes,No,-2.0,Kansas City Chiefs,No,Yes,L
+New Orleans Saints,Week 13,0.4728260869565217,0.5271739130434783,368,No,Yes,-7.0,Los Angeles Rams,No,No,L
+Philadelphia Eagles,Week 13,0.6455981941309256,0.3544018058690745,443,No,No,5.0,Baltimore Ravens,No,No,W
+Pittsburgh Steelers,Week 13,0.7127659574468085,0.2872340425531915,940,Yes,No,6.0,Cincinnati Bengals,No,No,W
+Seattle Seahawks,Week 13,0.6526479750778816,0.3473520249221183,642,No,No,5.0,New York Jets,No,No,W
+Tampa Bay Buccaneers,Week 13,0.7849740932642487,0.2150259067357512,772,Yes,No,3.0,Carolina Panthers,No,No,W
+Atlanta Falcons,Week 14,0.5038759689922481,0.4961240310077519,516,No,No,-21.0,Minnesota Vikings,No,No,L
+Buffalo Bills,Week 14,0.532258064516129,0.4677419354838709,434,No,No,-2.0,Los Angeles Rams,No,No,L
+Carolina Panthers,Week 14,0.7454931071049841,0.2545068928950159,943,No,No,-6.0,Philadelphia Eagles,No,No,L
+Cincinnati Bengals,Week 14,0.7300177619893428,0.2699822380106572,563,No,No,7.0,Dallas Cowboys,No,Yes,W
+Cleveland Browns,Week 14,0.3891607075649228,0.6108392924350772,2657,Yes,No,-13.0,Pittsburgh Steelers,No,No,L
+Detroit Lions,Week 14,0.5032051282051282,0.4967948717948718,312,Yes,Yes,3.0,Green Bay Packers,No,Yes,W
+Los Angeles Chargers,Week 14,0.4433198380566802,0.5566801619433198,494,Yes,No,-2.0,Kansas City Chiefs,No,Yes,L
+Los Angeles Rams,Week 14,0.5938628158844765,0.4061371841155234,554,No,Yes,2.0,Buffalo Bills,No,No,W
+Los Angeles Chargers,Week 15,0.5869643500180051,0.4130356499819949,2777,No,Yes,-23.0,Tampa Bay Buccaneers,No,No,L
+Los Angeles Rams,Week 15,0.6728971962616822,0.3271028037383177,214,Yes,No,6.0,San Francisco 49ers,No,Yes,W
+New Orleans Saints,Week 15,0.6952380952380952,0.3047619047619048,105,No,Yes,-1.0,Washington Commanders,No,No,L
+Buffalo Bills,Week 16,0.6123417721518988,0.3876582278481013,632,Yes,Yes,3.0,New England Patriots,No,No,W
+Dallas Cowboys,Week 16,0.8090646094503375,0.1909353905496625,1037,No,Yes,2.0,Tampa Bay Buccaneers,No,Yes,W
+Las Vegas Raiders,Week 16,0.7299444003177125,0.2700555996822875,1259,No,Yes,5.0,Jacksonville Jaguars,No,No,W
+Los Angeles Chargers,Week 16,0.7255216693418941,0.2744783306581059,623,Yes,Yes,7.0,Denver Broncos,No,Yes,W
+Miami Dolphins,Week 16,0.4659090909090909,0.5340909090909091,352,No,Yes,12.0,San Francisco 49ers,No,No,W
+New England Patriots,Week 16,0.4211026615969582,0.5788973384030418,1052,Yes,No,-3.0,Buffalo Bills,No,No,L
+Cleveland Browns,Week 18,0.5376555337262606,0.4623444662737394,1527,Yes,No,-25.0,Baltimore Ravens,No,Yes,L
+Dallas Cowboys,Week 18,0.6845070422535211,0.3154929577464789,355,Yes,Yes,-4.0,Washington Commanders,No,No,L
+Denver Broncos,Week 18,0.7140625,0.2859375,640,Yes,Yes,38.0,Kansas City Chiefs,No,No,W
+Detroit Lions,Week 18,0.6418269230769231,0.3581730769230769,416,Yes,Yes,22.0,Minnesota Vikings,No,Yes,W
+Green Bay Packers,Week 18,0.4380952380952381,0.5619047619047619,420,Yes,Yes,-2.0,Chicago Bears,No,No,L
+Houston Texans,Week 18,0.7435897435897436,0.2564102564102564,78,Yes,No,9.0,Tennessee Titans,No,No,W
+Las Vegas Raiders,Week 18,0.5531914893617021,0.4468085106382978,235,Yes,Yes,-14.0,Los Angeles Chargers,No,No,L
+Los Angeles Chargers,Week 18,0.539622641509434,0.460377358490566,265,Yes,No,14.0,Las Vegas Raiders,No,No,W
+Los Angeles Rams,Week 18,0.8612143742255266,0.1387856257744733,807,Yes,Yes,-5.0,Seattle Seahawks,No,No,L
+Miami Dolphins,Week 18,0.5213903743315508,0.4786096256684492,374,Yes,No,-12.0,New York Jets,No,Yes,L
+New York Giants,Week 18,0.635593220338983,0.3644067796610169,590,Yes,No,-7.0,Philadelphia Eagles,No,No,L
+New York Jets,Week 18,0.719626168224299,0.2803738317757009,535,Yes,Yes,12.0,Miami Dolphins,No,No,W
+Tennessee Titans,Week 18,0.6940639269406392,0.3059360730593607,219,Yes,Yes,-9.0,Houston Texans,No,No,L
+Houston Texans,Wild Card,0.7123287671232876,0.2876712328767123,292,No,Yes,20.0,Los Angeles Chargers,Yes,Yes,W
